@@ -6,7 +6,7 @@ contract bankAccount {
 
  address payable public accountNumber;
  uint256 public bankBalance;
- address public bankContract = 0x4211232cE0e1f6F934B9f57FFa11a3Fe282aA90a;
+ address public bankContract = 0x4211232cE0e1f6F934B9f5.....090;
  bool locked;
  uint256 loanPool = 1000 ether;
 
